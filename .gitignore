@@ -225,3 +225,4 @@ __marimo__/
 .venv_sosm/
 KIRC.*.txt
 *.tar.gz
+.DS_Store

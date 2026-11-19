@@ -8,6 +8,8 @@ By pairing cross-modality contrastive alignment (NT-Xent) with a pseudotime-weig
 
 ## 📄 Paper
 
+[![DOI](https://zenodo.org/badge/1462902601.svg)](https://doi.org/10.5281/zenodo.24363139)
+
 Read the full paper: **A. Karagöz, *"Prognosis Without Prediction: The Intrinsic Geometry of Survival,"* [arXiv:2611.24799](https://arxiv.org/abs/2611.24799), 2026.**
 
 - **Theoretical Foundation:** A. Karagöz, *"Self-Organizing Survival Manifolds: A Theory for Unsupervised Discovery of Prognostic Structures in Biological Systems,"* [arXiv:2508.06539](https://arxiv.org/abs/2508.06539), 2025.
